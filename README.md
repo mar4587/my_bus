@@ -1,7 +1,7 @@
 
 # Project Title
 
-My Bus
+Fetan Bus
 
 An online bus ticket booking system with a login system, validated 
 payment form and ticket pdf print. 
